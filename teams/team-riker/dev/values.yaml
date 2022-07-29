@@ -2,7 +2,3 @@ spec:
   ingress:
     host: team-riker.argocd.dev1.altruistnet.tech
     type: alb
-status:
-  loadBalancer:
-    ingress:
-    - hostname: internal-a3bef5a0f0f174ebf9a31887d7d8dfcb-1624572387.us-east-1.elb.amazonaws.com
