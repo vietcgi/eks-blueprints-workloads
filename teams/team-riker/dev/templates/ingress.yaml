@@ -9,7 +9,7 @@ metadata:
     #https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1571
     #so commenting grouping feature
     #alb.ingress.kubernetes.io/group.name: riker
-    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/scheme: internal
     alb.ingress.kubernetes.io/target-type: ip
     alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}]'
     alb.ingress.kubernetes.io/tags: Environment=dev,Team=Riker
