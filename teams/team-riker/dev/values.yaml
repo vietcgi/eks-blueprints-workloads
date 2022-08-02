@@ -1,4 +1,4 @@
 spec:
   ingress:
-    host: team-riker.argocd.dev1.altruistnet.tech
+    host: guestbook-ui.team-riker.argocd.dev1.altruistnet.tech
     type: nginx
