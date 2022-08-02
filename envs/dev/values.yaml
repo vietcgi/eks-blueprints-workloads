@@ -5,4 +5,4 @@ spec:
     repoURL: https://github.com/vietcgi/eks-blueprints-workloads
     targetRevision: main
   ingress:
-    host: team-riker.argocd.dev1.altruistnet.tech
+    host: guestbook-ui.team-riker.argocd.dev1.altruistnet.tech
